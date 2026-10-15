@@ -30,4 +30,5 @@ Venho da área de Qualidade, onde um processo só está pronto quando outra pess
 
 ---
 
-**Pedro Henrique Simas**: Qualidade, Processos e Requisitos | Salvador, BA
+**Pedro Henrique Simas**: Qualidade, Processos e Requisitos | Salvador, BA  
+[LinkedIn](https://www.linkedin.com/in/pedro-henrique-simas/)
